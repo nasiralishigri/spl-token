@@ -1,0 +1,11 @@
+{
+  "name": "sol-pro-v1",
+  "version": "1.0.0",
+  "description": "solana-keygen new  --force -o \"path set\" // Create Wallet keys\r solana-keygen pubkey // check publick key\r solana balance --url devnet // check balance of account\r solana airdrop 2 -url devnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
